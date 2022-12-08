@@ -1,0 +1,5 @@
+#ignore All .json file
+*.json
+
+#ignore Folder node_modules
+node_modules/
